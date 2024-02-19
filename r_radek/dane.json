@@ -1,0 +1,682 @@
+[
+    {
+        "end_device_ids": {
+            "device_id": "pro-mini-rfm96",
+            "application_ids": {
+                "application_id": "sensors-ukw"
+            },
+            "dev_eui": "70B3D57ED005BB13",
+            "dev_addr": "260BA4C7"
+        },
+        "correlation_ids": [
+            "gs:uplink:01HMEEV8TQ734M7XA54413YJEK"
+        ],
+        "received_at": "2024-01-18T14:15:52.612570626Z",
+        "uplink_message": {
+            "f_port": 1,
+            "f_cnt": 11667,
+            "frm_payload": "AQIBeAJnAEcDaH0Ecyaf",
+            "decoded_payload": {
+                "analog_in_1": 3.76,
+                "barometric_pressure_4": 988.7,
+                "relative_humidity_3": 62.5,
+                "temperature_2": 7.1
+            },
+            "rx_metadata": [
+                {
+                    "gateway_ids": {
+                        "gateway_id": "eui-b827ebfffe236714",
+                        "eui": "B827EBFFFE236714"
+                    },
+                    "time": "2024-01-18T14:15:52.369202Z",
+                    "timestamp": 3399159043,
+                    "rssi": -69,
+                    "channel_rssi": -69,
+                    "snr": 10.2,
+                    "location": {
+                        "latitude": 53.0611751,
+                        "longitude": 17.8333643,
+                        "altitude": 68,
+                        "source": "SOURCE_REGISTRY"
+                    },
+                    "uplink_token": "CiIKIAoUZXVpLWI4MjdlYmZmZmUyMzY3MTQSCLgn6\/\/+I2cUEIOa7NQMGgwImOWkrQYQ0KCWwgEguKer7fbfAQ==",
+                    "channel_index": 3,
+                    "received_at": "2024-01-18T14:15:52.407212112Z"
+                }
+            ],
+            "settings": {
+                "data_rate": {
+                    "lora": {
+                        "bandwidth": 125000,
+                        "spreading_factor": 7,
+                        "coding_rate": "4\/5"
+                    }
+                },
+                "frequency": "867100000",
+                "timestamp": 3399159043,
+                "time": "2024-01-18T14:15:52.369202Z"
+            },
+            "received_at": "2024-01-18T14:15:52.408036807Z",
+            "consumed_airtime": "0.066816s",
+            "network_ids": {
+                "net_id": "000013",
+                "ns_id": "EC656E0000000181",
+                "tenant_id": "ttn",
+                "cluster_id": "eu1",
+                "cluster_address": "eu1.cloud.thethings.network"
+            }
+        }
+    },
+    {
+        "end_device_ids": {
+            "device_id": "pro-mini-rfm96",
+            "application_ids": {
+                "application_id": "sensors-ukw"
+            },
+            "dev_eui": "70B3D57ED005BB13",
+            "dev_addr": "260BA4C7"
+        },
+        "correlation_ids": [
+            "gs:uplink:01HMEEXA7N5C6WC1E4PMXQQKAA"
+        ],
+        "received_at": "2024-01-18T14:16:59.586759828Z",
+        "uplink_message": {
+            "f_port": 1,
+            "f_cnt": 11668,
+            "frm_payload": "AQIBeAJnAEcDaH0Ecyaf",
+            "decoded_payload": {
+                "analog_in_1": 3.76,
+                "barometric_pressure_4": 988.7,
+                "relative_humidity_3": 62.5,
+                "temperature_2": 7.1
+            },
+            "rx_metadata": [
+                {
+                    "gateway_ids": {
+                        "gateway_id": "eui-b827ebfffe236714",
+                        "eui": "B827EBFFFE236714"
+                    },
+                    "time": "2024-01-18T14:16:59.354118Z",
+                    "timestamp": 3466139843,
+                    "rssi": -70,
+                    "channel_rssi": -70,
+                    "snr": 8,
+                    "location": {
+                        "latitude": 53.0611751,
+                        "longitude": 17.8333643,
+                        "altitude": 68,
+                        "source": "SOURCE_REGISTRY"
+                    },
+                    "uplink_token": "CiIKIAoUZXVpLWI4MjdlYmZmZmUyMzY3MTQSCLgn6\/\/+I2cUEMOx5PQMGgwI2+WkrQYQl474tQEguPOisPDhAQ==",
+                    "channel_index": 2,
+                    "received_at": "2024-01-18T14:16:59.381552407Z"
+                }
+            ],
+            "settings": {
+                "data_rate": {
+                    "lora": {
+                        "bandwidth": 125000,
+                        "spreading_factor": 7,
+                        "coding_rate": "4\/5"
+                    }
+                },
+                "frequency": "868500000",
+                "timestamp": 3466139843,
+                "time": "2024-01-18T14:16:59.354118Z"
+            },
+            "received_at": "2024-01-18T14:16:59.382574398Z",
+            "consumed_airtime": "0.066816s",
+            "network_ids": {
+                "net_id": "000013",
+                "ns_id": "EC656E0000000181",
+                "tenant_id": "ttn",
+                "cluster_id": "eu1",
+                "cluster_address": "eu1.cloud.thethings.network"
+            }
+        }
+    },
+    {
+        "end_device_ids": {
+            "device_id": "pro-mini-rfm96",
+            "application_ids": {
+                "application_id": "sensors-ukw"
+            },
+            "dev_eui": "70B3D57ED005BB13",
+            "dev_addr": "260BA4C7"
+        },
+        "correlation_ids": [
+            "gs:uplink:01HMEEZBNDGZ6DKCR31EBGEXQB"
+        ],
+        "received_at": "2024-01-18T14:18:06.591231642Z",
+        "uplink_message": {
+            "f_port": 1,
+            "f_cnt": 11669,
+            "frm_payload": "AQIBeAJnAEcDaH0Ecyaf",
+            "decoded_payload": {
+                "analog_in_1": 3.76,
+                "barometric_pressure_4": 988.7,
+                "relative_humidity_3": 62.5,
+                "temperature_2": 7.1
+            },
+            "rx_metadata": [
+                {
+                    "gateway_ids": {
+                        "gateway_id": "eui-b827ebfffe236714",
+                        "eui": "B827EBFFFE236714"
+                    },
+                    "time": "2024-01-18T14:18:06.334021Z",
+                    "timestamp": 3533119412,
+                    "rssi": -66,
+                    "channel_rssi": -66,
+                    "snr": 8.5,
+                    "location": {
+                        "latitude": 53.0611751,
+                        "longitude": 17.8333643,
+                        "altitude": 68,
+                        "source": "SOURCE_REGISTRY"
+                    },
+                    "uplink_token": "CiIKIAoUZXVpLWI4MjdlYmZmZmUyMzY3MTQSCLgn6\/\/+I2cUELS\/3JQNGgwInuakrQYQnZr4tQEgoK7P8unjAQ==",
+                    "channel_index": 5,
+                    "received_at": "2024-01-18T14:18:06.381553949Z"
+                }
+            ],
+            "settings": {
+                "data_rate": {
+                    "lora": {
+                        "bandwidth": 125000,
+                        "spreading_factor": 7,
+                        "coding_rate": "4\/5"
+                    }
+                },
+                "frequency": "867500000",
+                "timestamp": 3533119412,
+                "time": "2024-01-18T14:18:06.334021Z"
+            },
+            "received_at": "2024-01-18T14:18:06.382496882Z",
+            "consumed_airtime": "0.066816s",
+            "network_ids": {
+                "net_id": "000013",
+                "ns_id": "EC656E0000000181",
+                "tenant_id": "ttn",
+                "cluster_id": "eu1",
+                "cluster_address": "eu1.cloud.thethings.network"
+            }
+        }
+    },
+    {
+        "end_device_ids": {
+            "device_id": "pro-mini-rfm96",
+            "application_ids": {
+                "application_id": "sensors-ukw"
+            },
+            "dev_eui": "70B3D57ED005BB13",
+            "dev_addr": "260BA4C7"
+        },
+        "correlation_ids": [
+            "gs:uplink:01HMEF1D2X1S1QQEFDQZGB6KVD"
+        ],
+        "received_at": "2024-01-18T14:19:13.582438069Z",
+        "uplink_message": {
+            "f_port": 1,
+            "f_cnt": 11670,
+            "frm_payload": "AQIBeAJnAEcDaH0Ecyaf",
+            "decoded_payload": {
+                "analog_in_1": 3.76,
+                "barometric_pressure_4": 988.7,
+                "relative_humidity_3": 62.5,
+                "temperature_2": 7.1
+            },
+            "rx_metadata": [
+                {
+                    "gateway_ids": {
+                        "gateway_id": "eui-b827ebfffe236714",
+                        "eui": "B827EBFFFE236714"
+                    },
+                    "time": "2024-01-18T14:19:13.313462Z",
+                    "timestamp": 3600098851,
+                    "rssi": -73,
+                    "channel_rssi": -73,
+                    "snr": 10.5,
+                    "location": {
+                        "latitude": 53.0611751,
+                        "longitude": 17.8333643,
+                        "altitude": 68,
+                        "source": "SOURCE_REGISTRY"
+                    },
+                    "uplink_token": "CiIKIAoUZXVpLWI4MjdlYmZmZmUyMzY3MTQSCLgn6\/\/+I2cUEKPM1LQNGgwI4eakrQYQtsOQsgEguPHztOPlAQ==",
+                    "channel_index": 1,
+                    "received_at": "2024-01-18T14:19:13.373563830Z"
+                }
+            ],
+            "settings": {
+                "data_rate": {
+                    "lora": {
+                        "bandwidth": 125000,
+                        "spreading_factor": 7,
+                        "coding_rate": "4\/5"
+                    }
+                },
+                "frequency": "868300000",
+                "timestamp": 3600098851,
+                "time": "2024-01-18T14:19:13.313462Z"
+            },
+            "received_at": "2024-01-18T14:19:13.374597916Z",
+            "consumed_airtime": "0.066816s",
+            "network_ids": {
+                "net_id": "000013",
+                "ns_id": "EC656E0000000181",
+                "tenant_id": "ttn",
+                "cluster_id": "eu1",
+                "cluster_address": "eu1.cloud.thethings.network"
+            }
+        }
+    },
+    {
+        "end_device_ids": {
+            "device_id": "pro-mini-rfm96",
+            "application_ids": {
+                "application_id": "sensors-ukw"
+            },
+            "dev_eui": "70B3D57ED005BB13",
+            "dev_addr": "260BA4C7"
+        },
+        "correlation_ids": [
+            "gs:uplink:01HMEF3EFN92SKJ3Q5VG279Q5W"
+        ],
+        "received_at": "2024-01-18T14:20:20.548895564Z",
+        "uplink_message": {
+            "f_port": 1,
+            "f_cnt": 11671,
+            "frm_payload": "AQIBeAJnAEcDaHwEcyaf",
+            "decoded_payload": {
+                "analog_in_1": 3.76,
+                "barometric_pressure_4": 988.7,
+                "relative_humidity_3": 62,
+                "temperature_2": 7.1
+            },
+            "rx_metadata": [
+                {
+                    "gateway_ids": {
+                        "gateway_id": "eui-b827ebfffe236714",
+                        "eui": "B827EBFFFE236714"
+                    },
+                    "time": "2024-01-18T14:20:20.289575Z",
+                    "timestamp": 3667078436,
+                    "rssi": -72,
+                    "channel_rssi": -72,
+                    "snr": 9.2,
+                    "location": {
+                        "latitude": 53.0611751,
+                        "longitude": 17.8333643,
+                        "altitude": 68,
+                        "source": "SOURCE_REGISTRY"
+                    },
+                    "uplink_token": "CiIKIAoUZXVpLWI4MjdlYmZmZmUyMzY3MTQSCLgn6\/\/+I2cUEKTazNQNGgwIpOekrQYQ3fzcogEgoKmh99znAQ==",
+                    "channel_index": 7,
+                    "received_at": "2024-01-18T14:20:20.341261917Z"
+                }
+            ],
+            "settings": {
+                "data_rate": {
+                    "lora": {
+                        "bandwidth": 125000,
+                        "spreading_factor": 7,
+                        "coding_rate": "4\/5"
+                    }
+                },
+                "frequency": "867900000",
+                "timestamp": 3667078436,
+                "time": "2024-01-18T14:20:20.289575Z"
+            },
+            "received_at": "2024-01-18T14:20:20.342254746Z",
+            "consumed_airtime": "0.066816s",
+            "network_ids": {
+                "net_id": "000013",
+                "ns_id": "EC656E0000000181",
+                "tenant_id": "ttn",
+                "cluster_id": "eu1",
+                "cluster_address": "eu1.cloud.thethings.network"
+            }
+        }
+    },
+    {
+        "end_device_ids": {
+            "device_id": "pro-mini-rfm96",
+            "application_ids": {
+                "application_id": "sensors-ukw"
+            },
+            "dev_eui": "70B3D57ED005BB13",
+            "dev_addr": "260BA4C7"
+        },
+        "correlation_ids": [
+            "gs:uplink:01HMEF5FX5F7CX8RDAXXKM05PR"
+        ],
+        "received_at": "2024-01-18T14:21:27.541314526Z",
+        "uplink_message": {
+            "f_port": 1,
+            "f_cnt": 11672,
+            "frm_payload": "AQIBeAJnAEgDaHwEcyaf",
+            "decoded_payload": {
+                "analog_in_1": 3.76,
+                "barometric_pressure_4": 988.7,
+                "relative_humidity_3": 62,
+                "temperature_2": 7.2
+            },
+            "rx_metadata": [
+                {
+                    "gateway_ids": {
+                        "gateway_id": "eui-b827ebfffe236714",
+                        "eui": "B827EBFFFE236714"
+                    },
+                    "time": "2024-01-18T14:21:27.265004Z",
+                    "timestamp": 3734059659,
+                    "rssi": -71,
+                    "channel_rssi": -71,
+                    "snr": 9.2,
+                    "location": {
+                        "latitude": 53.0611751,
+                        "longitude": 17.8333643,
+                        "altitude": 68,
+                        "source": "SOURCE_REGISTRY"
+                    },
+                    "uplink_token": "CiIKIAoUZXVpLWI4MjdlYmZmZmUyMzY3MTQSCLgn6\/\/+I2cUEIv1xPQNGgwI5+ekrQYQ9IX5ngEg+N2yutbpAQ==",
+                    "channel_index": 1,
+                    "received_at": "2024-01-18T14:21:27.333333236Z"
+                }
+            ],
+            "settings": {
+                "data_rate": {
+                    "lora": {
+                        "bandwidth": 125000,
+                        "spreading_factor": 7,
+                        "coding_rate": "4\/5"
+                    }
+                },
+                "frequency": "868300000",
+                "timestamp": 3734059659,
+                "time": "2024-01-18T14:21:27.265004Z"
+            },
+            "received_at": "2024-01-18T14:21:27.334335158Z",
+            "consumed_airtime": "0.066816s",
+            "network_ids": {
+                "net_id": "000013",
+                "ns_id": "EC656E0000000181",
+                "tenant_id": "ttn",
+                "cluster_id": "eu1",
+                "cluster_address": "eu1.cloud.thethings.network"
+            }
+        }
+    },
+    {
+        "end_device_ids": {
+            "device_id": "pro-mini-rfm96",
+            "application_ids": {
+                "application_id": "sensors-ukw"
+            },
+            "dev_eui": "70B3D57ED005BB13",
+            "dev_addr": "260BA4C7"
+        },
+        "correlation_ids": [
+            "gs:uplink:01HMEF7H9NTZSTA1BKWHS6Q541"
+        ],
+        "received_at": "2024-01-18T14:22:34.500232773Z",
+        "uplink_message": {
+            "f_port": 1,
+            "f_cnt": 11673,
+            "frm_payload": "AQIBeAJnAEgDaH0Ecyaf",
+            "decoded_payload": {
+                "analog_in_1": 3.76,
+                "barometric_pressure_4": 988.7,
+                "relative_humidity_3": 62.5,
+                "temperature_2": 7.2
+            },
+            "rx_metadata": [
+                {
+                    "gateway_ids": {
+                        "gateway_id": "eui-b827ebfffe236714",
+                        "eui": "B827EBFFFE236714"
+                    },
+                    "time": "2024-01-18T14:22:34.244834Z",
+                    "timestamp": 3801039868,
+                    "rssi": -70,
+                    "channel_rssi": -70,
+                    "snr": 9,
+                    "location": {
+                        "latitude": 53.0611751,
+                        "longitude": 17.8333643,
+                        "altitude": 68,
+                        "source": "SOURCE_REGISTRY"
+                    },
+                    "uplink_token": "CiIKIAoUZXVpLWI4MjdlYmZmZmUyMzY3MTQSCLgn6\/\/+I2cUEPyHvZQOGgwIquikrQYQ0pnoiwEg4KCG\/c\/rAQ==",
+                    "channel_index": 6,
+                    "received_at": "2024-01-18T14:22:34.293211346Z"
+                }
+            ],
+            "settings": {
+                "data_rate": {
+                    "lora": {
+                        "bandwidth": 125000,
+                        "spreading_factor": 7,
+                        "coding_rate": "4\/5"
+                    }
+                },
+                "frequency": "867700000",
+                "timestamp": 3801039868,
+                "time": "2024-01-18T14:22:34.244834Z"
+            },
+            "received_at": "2024-01-18T14:22:34.294220336Z",
+            "consumed_airtime": "0.066816s",
+            "network_ids": {
+                "net_id": "000013",
+                "ns_id": "EC656E0000000181",
+                "tenant_id": "ttn",
+                "cluster_id": "eu1",
+                "cluster_address": "eu1.cloud.thethings.network"
+            }
+        }
+    },
+    {
+        "end_device_ids": {
+            "device_id": "pro-mini-rfm96",
+            "application_ids": {
+                "application_id": "sensors-ukw"
+            },
+            "dev_eui": "70B3D57ED005BB13",
+            "dev_addr": "260BA4C7"
+        },
+        "correlation_ids": [
+            "gs:uplink:01HMEF9JQNEXBA5E6PBTHJ06SJ"
+        ],
+        "received_at": "2024-01-18T14:23:41.509507702Z",
+        "uplink_message": {
+            "f_port": 1,
+            "f_cnt": 11674,
+            "frm_payload": "AQIBeAJnAEgDaH0Ecyaf",
+            "decoded_payload": {
+                "analog_in_1": 3.76,
+                "barometric_pressure_4": 988.7,
+                "relative_humidity_3": 62.5,
+                "temperature_2": 7.2
+            },
+            "rx_metadata": [
+                {
+                    "gateway_ids": {
+                        "gateway_id": "eui-b827ebfffe236714",
+                        "eui": "B827EBFFFE236714"
+                    },
+                    "time": "2024-01-18T14:23:41.233824Z",
+                    "timestamp": 3868022587,
+                    "rssi": -72,
+                    "channel_rssi": -72,
+                    "snr": 7,
+                    "location": {
+                        "latitude": 53.0611751,
+                        "longitude": 17.8333643,
+                        "altitude": 68,
+                        "source": "SOURCE_REGISTRY"
+                    },
+                    "uplink_token": "CiIKIAoUZXVpLWI4MjdlYmZmZmUyMzY3MTQSCLgn6\/\/+I2cUELuutbQOGgwI7eikrQYQ74fRjwEg+PzywMntAQ==",
+                    "channel_index": 2,
+                    "received_at": "2024-01-18T14:23:41.301220847Z"
+                }
+            ],
+            "settings": {
+                "data_rate": {
+                    "lora": {
+                        "bandwidth": 125000,
+                        "spreading_factor": 7,
+                        "coding_rate": "4\/5"
+                    }
+                },
+                "frequency": "868500000",
+                "timestamp": 3868022587,
+                "time": "2024-01-18T14:23:41.233824Z"
+            },
+            "received_at": "2024-01-18T14:23:41.302297813Z",
+            "consumed_airtime": "0.066816s",
+            "network_ids": {
+                "net_id": "000013",
+                "ns_id": "EC656E0000000181",
+                "tenant_id": "ttn",
+                "cluster_id": "eu1",
+                "cluster_address": "eu1.cloud.thethings.network"
+            }
+        }
+    },
+    {
+        "end_device_ids": {
+            "device_id": "pro-mini-rfm96",
+            "application_ids": {
+                "application_id": "sensors-ukw"
+            },
+            "dev_eui": "70B3D57ED005BB13",
+            "dev_addr": "260BA4C7"
+        },
+        "correlation_ids": [
+            "gs:uplink:01HMEFBM45AYWPSGQWCD37YDBH"
+        ],
+        "received_at": "2024-01-18T14:24:48.467303160Z",
+        "uplink_message": {
+            "f_port": 1,
+            "f_cnt": 11675,
+            "frm_payload": "AQIBeAJnAEgDaHwEcyaf",
+            "decoded_payload": {
+                "analog_in_1": 3.76,
+                "barometric_pressure_4": 988.7,
+                "relative_humidity_3": 62,
+                "temperature_2": 7.2
+            },
+            "rx_metadata": [
+                {
+                    "gateway_ids": {
+                        "gateway_id": "eui-b827ebfffe236714",
+                        "eui": "B827EBFFFE236714"
+                    },
+                    "time": "2024-01-18T14:24:48.210368Z",
+                    "timestamp": 3935004556,
+                    "rssi": -71,
+                    "channel_rssi": -71,
+                    "snr": 8.8,
+                    "location": {
+                        "latitude": 53.0611751,
+                        "longitude": 17.8333643,
+                        "altitude": 68,
+                        "source": "SOURCE_REGISTRY"
+                    },
+                    "uplink_token": "CiIKIAoUZXVpLWI4MjdlYmZmZmUyMzY3MTQSCLgn6\/\/+I2cUEIzPrdQOGgsIsOmkrQYQw7TTfCDg9bGEw+8B",
+                    "channel_index": 5,
+                    "received_at": "2024-01-18T14:24:48.261413443Z"
+                }
+            ],
+            "settings": {
+                "data_rate": {
+                    "lora": {
+                        "bandwidth": 125000,
+                        "spreading_factor": 7,
+                        "coding_rate": "4\/5"
+                    }
+                },
+                "frequency": "867500000",
+                "timestamp": 3935004556,
+                "time": "2024-01-18T14:24:48.210368Z"
+            },
+            "received_at": "2024-01-18T14:24:48.262055042Z",
+            "consumed_airtime": "0.066816s",
+            "network_ids": {
+                "net_id": "000013",
+                "ns_id": "EC656E0000000181",
+                "tenant_id": "ttn",
+                "cluster_id": "eu1",
+                "cluster_address": "eu1.cloud.thethings.network"
+            }
+        }
+    },
+    {
+        "end_device_ids": {
+            "device_id": "pro-mini-rfm96",
+            "application_ids": {
+                "application_id": "sensors-ukw"
+            },
+            "dev_eui": "70B3D57ED005BB13",
+            "dev_addr": "260BA4C7"
+        },
+        "correlation_ids": [
+            "gs:uplink:01HMEFDNGPBZEJTN03A9DB263X"
+        ],
+        "received_at": "2024-01-18T14:25:55.430180422Z",
+        "uplink_message": {
+            "f_port": 1,
+            "f_cnt": 11676,
+            "frm_payload": "AQIBeAJnAEgDaHwEcyaf",
+            "decoded_payload": {
+                "analog_in_1": 3.76,
+                "barometric_pressure_4": 988.7,
+                "relative_humidity_3": 62,
+                "temperature_2": 7.2
+            },
+            "rx_metadata": [
+                {
+                    "gateway_ids": {
+                        "gateway_id": "eui-b827ebfffe236714",
+                        "eui": "B827EBFFFE236714"
+                    },
+                    "time": "2024-01-18T14:25:55.195604Z",
+                    "timestamp": 4001987355,
+                    "rssi": -69,
+                    "channel_rssi": -69,
+                    "snr": 9.5,
+                    "location": {
+                        "latitude": 53.0611751,
+                        "longitude": 17.8333643,
+                        "altitude": 68,
+                        "source": "SOURCE_REGISTRY"
+                    },
+                    "uplink_token": "CiIKIAoUZXVpLWI4MjdlYmZmZmUyMzY3MTQSCLgn6\/\/+I2cUEJv2pfQOGgsI8+mkrQYQ8eX5aSD4wqPIvPEB",
+                    "channel_index": 3,
+                    "received_at": "2024-01-18T14:25:55.222196465Z"
+                }
+            ],
+            "settings": {
+                "data_rate": {
+                    "lora": {
+                        "bandwidth": 125000,
+                        "spreading_factor": 7,
+                        "coding_rate": "4\/5"
+                    }
+                },
+                "frequency": "867100000",
+                "timestamp": 4001987355,
+                "time": "2024-01-18T14:25:55.195604Z"
+            },
+            "received_at": "2024-01-18T14:25:55.224849786Z",
+            "consumed_airtime": "0.066816s",
+            "network_ids": {
+                "net_id": "000013",
+                "ns_id": "EC656E0000000181",
+                "tenant_id": "ttn",
+                "cluster_id": "eu1",
+                "cluster_address": "eu1.cloud.thethings.network"
+            }
+        }
+    }
+]
